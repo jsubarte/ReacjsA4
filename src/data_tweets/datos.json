@@ -1,0 +1,98 @@
+[
+    {
+        "imagen":"images/naturaleza-1.png",
+        "fecha":"2021-09-02",
+        "autor":"@jlubbock",
+        "mensaje":"La Tierra y el cielo, bosques y campos, lagos y ríos, las montañas y el mar son excelentes escuelas que nos enseñan muchísimas cosas que no se pueden aprender en los libros.",
+        "comentarios":25,
+        "likes":512
+    },
+    {
+        "imagen":"images/naturaleza-2.png",
+        "fecha":"2021-09-10",
+        "autor":"@hmelchert",
+        "mensaje":"Vive tu vida como si subieras una montaña. De vez en cuando mira la cumbre, pero más importante es admirar las cosas bellas del camino. Sube despacio, firme, y disfruta cada momento. Las vistas desde la cima serán el regalo perfecto tras el viaje.",
+        "comentarios":18,
+        "likes":618
+    },
+    {
+        "imagen":"images/naturaleza-3.png",
+        "fecha":"2021-09-21",
+        "autor":"@rwestheimer",
+        "mensaje":"Nuestro camino no es por fáciles prados de hierba, sino que es un sendero de montaña escarpado y lleno de dificultades. Pero siempre hacia adelante, hacia arriba, hacia el sol.",
+        "comentarios":10,
+        "likes":715
+    },
+    {
+        "imagen":"images/naturaleza-4.png",
+        "fecha":"2021-09-12",
+        "autor":"@raulsinghclicks",
+        "mensaje":"Una hembra carmesí sunbird refrescándose con el agua que se almacena en el pétalo de una flor de banano ornamental.",
+        "comentarios":426,
+        "likes":478
+    },
+    {
+        "imagen":"images/naturaleza-5.png",
+        "fecha":"2021-08-31",
+        "autor":"@ilkgulmenzil",
+        "mensaje":"Puesta de sol tormentosa.",
+        "comentarios":14,
+        "likes":100
+    },
+    {
+        "imagen":"images/naturaleza-6.png",
+        "fecha":"2021-09-21",
+        "autor":"@sennarelax",
+        "mensaje":"Brienz Suiza, pueblo de cuento de hadas.",
+        "comentarios":209,
+        "likes":835
+    },
+    {
+        "imagen":"images/naturaleza-7.png",
+        "fecha":"2021-09-13",
+        "autor":"@imikegraphics",
+        "mensaje":"La iluminación más espectacular de la naturaleza en Laponia, Finlandia. La forma más tradicional de observar auroras boreales incluyen raquetas de nieve, esquí de fondo o motos de nieve.",
+        "comentarios":912,
+        "likes":1243
+    },
+    {
+        "imagen":"images/naturaleza-8.png",
+        "fecha":"2021-08-15",
+        "autor":"@jamesjcruz",
+        "mensaje":"Pirámide de Guiza.",
+        "comentarios":995,
+        "likes":1506
+    },
+    {
+        "imagen":"images/naturaleza-9.png",
+        "fecha":"2021-06-04",
+        "autor":"@giuliogroebert",
+        "mensaje":"Cuando paseas por los pintorescos pueblos de Ticino, inmediatamente se siente como si hubiera sido transportado a otra época.",
+        "comentarios":1217,
+        "likes":3518
+    },
+    {
+        "imagen":"images/naturaleza-10.png",
+        "fecha":"2021-07-28",
+        "autor":"@iwanbaan",
+        "mensaje":"Villa Vals, Suiza. Etiqueta a alguien con quien te quedarías.",
+        "comentarios":9825,
+        "likes":11512
+    },
+    {
+        "imagen":"images/naturaleza-11.png",
+        "fecha":"2021-04-15",
+        "autor":"@elcampa1969",
+        "mensaje":"Seceda, dolomitas italianos.",
+        "comentarios":12791,
+        "likes":15994
+    },
+    {
+        "imagen":"images/naturaleza-12.png",
+        "fecha":"2021-04-20",
+        "autor":"@ilhan1077",
+        "mensaje":"Val di Funes, dolomitas italianos.",
+        "comentarios":12815,
+        "likes":15950
+    }
+]

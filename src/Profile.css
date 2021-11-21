@@ -1,0 +1,29 @@
+#img-Joker{
+    text-align: center;
+    width: 100%;
+}
+
+.dot {
+    height: 200px;
+    width: 60%;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.center{
+    text-align: center;
+}
+
+#tarjeta{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 1200px) {
+    .dot {
+        height: 100%;
+        width: 40%;
+        border-radius: 50%;
+        display: inline-block;
+    }
+}
